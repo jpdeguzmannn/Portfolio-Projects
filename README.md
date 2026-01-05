@@ -77,7 +77,4 @@ I aim to contribute to meaningful projects while continuing to grow in a fast-pa
 <br />
 
 
-
-![SebastianSiuol's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SebastianSiuol&theme=react&hide_border=false)
-
 </div>
